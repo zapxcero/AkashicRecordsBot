@@ -1,1 +1,1 @@
-my attempt of creating a reddit bot 
+my attempt at creating a reddit bot 
